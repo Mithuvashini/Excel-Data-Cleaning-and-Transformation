@@ -1,5 +1,4 @@
 # Excel-Data-Cleaning-and-Transformation
-# Data Cleaning and Formatting in Excel
 
 This document outlines the steps taken to clean, standardize, and format a product dataset using Excel / Power Query.
 
